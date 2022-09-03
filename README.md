@@ -19,3 +19,9 @@ https://drive.google.com/drive/folders/1WPs7WRjJKHDYOlIX1H81xFozCtVIgkQ4
 e.g. to download all demos:
 
     gsutil -u <YOUR_GOOGLE_CLOUD_PROJECT_ID> -m cp -r gs://valve-csgo-event-demos .
+
+## Disclaimer
+
+This repository and the data set is not affiliated with or endorsed by Valve Corporation or any of the event tournament organisers.
+
+Use this data at your own risk.
