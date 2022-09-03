@@ -2,8 +2,6 @@
 
 All Replay/Demo Files from Valve Sponsored CS:GO Events (Majors)
 
-:information_source: PGL 2022 Antwerp demos are currently missing - they will hopefully be added very soon.
-
 
 ## Google Drive
 
