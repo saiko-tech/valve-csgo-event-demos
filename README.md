@@ -12,7 +12,7 @@ https://drive.google.com/drive/folders/1WPs7WRjJKHDYOlIX1H81xFozCtVIgkQ4
 
     gs://valve-csgo-event-demos
 
-:information_source: The bucket has `Requester Pays` enabled, see https://cloud.google.com/storage/docs/using-requester-pays
+:information_source: The bucket has `Requester Pays` enabled, see https://cloud.google.com/storage/docs/using-requester-pays (note that this is purely to cover network traffic - the money goes to Google, not to us)
 
 e.g. to download all demos:
 
