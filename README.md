@@ -5,6 +5,9 @@ All Replay/Demo Files from Valve Sponsored CS:GO Events (Majors)
 
 ## Google Drive
 
+This is by far the easiest way to get your hands on the demos.
+Just follow the link below.
+
 https://drive.google.com/drive/folders/1WPs7WRjJKHDYOlIX1H81xFozCtVIgkQ4
 
 
