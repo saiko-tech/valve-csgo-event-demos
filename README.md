@@ -18,6 +18,15 @@ e.g. to download all demos:
 
     gsutil -u <YOUR_GOOGLE_CLOUD_PROJECT_ID> -m cp -r gs://valve-csgo-event-demos .
 
+## Acknowledgements
+
+Thanks to Robert on the [demoinfocs-golang](github.com/markus-wa/demoinfocs-golang) Discord server for helping source some missing demos.
+
+Join us:
+
+[![Discord Chat](https://img.shields.io/discord/901824796302643281?color=%235865F2&label=discord&style=for-the-badge)](https://discord.gg/eTVBgKeHnh)
+
+
 ## Disclaimer
 
 This repository and the data set is not affiliated with or endorsed by Valve Corporation or any of the event tournament organisers.
